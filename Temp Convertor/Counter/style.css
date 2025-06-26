@@ -1,0 +1,33 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size:2em;
+}
+#Buttons{
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 1.5em;
+    text-align: center;
+}
+#Counter{
+    text-align: center;
+    font-size: 3em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.btns{
+    padding: 5px 15px;
+    background-color: rgb(51, 128, 243);
+    color: white;
+    border-radius: 25%;
+    cursor: pointer;
+}
+.btns:hover{
+    background-color:blue;
+    transition: 0.25s;
+}
+#Label{
+    font-size: 0.5em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#Mysubmit{
+    font-size: 0.8em;
+    margin-left: 25px;
+}
